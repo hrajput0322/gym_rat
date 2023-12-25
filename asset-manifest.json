@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gym_rat/static/css/main.49ad5630.css",
+    "main.js": "/gym_rat/static/js/main.99a2c5f3.js",
+    "static/media/Banner.png": "/gym_rat/static/media/Banner.d6c4191a12ab969d5815.png",
+    "static/media/Logo.png": "/gym_rat/static/media/Logo.f94925a998218255d01e.png",
+    "index.html": "/gym_rat/index.html",
+    "main.49ad5630.css.map": "/gym_rat/static/css/main.49ad5630.css.map",
+    "main.99a2c5f3.js.map": "/gym_rat/static/js/main.99a2c5f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ad5630.css",
+    "static/js/main.99a2c5f3.js"
+  ]
+}
